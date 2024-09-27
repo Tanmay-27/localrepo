@@ -1,0 +1,29 @@
+/*div {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+
+}*/
+
+nav {
+    background-color: #0f1111;
+    color:white;
+    height: 60px;
+    border-radius: 10px;
+    text-align: 25px;
+    position: fixed;
+    display:inline-block;
+}
+
+a {
+    margin: 90px;
+}
+
+button {
+    background-color: #f08804;
+}
+
+p {
+    color:lightpink;
+}
